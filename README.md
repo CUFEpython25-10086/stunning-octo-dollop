@@ -8,7 +8,7 @@
 |------|--------------|
 | 游尹哲郡 | @LeoAndJellyfish |
 | 李科翰 | @Sakura975 |
-| 杨帆 | @YangFan |
+| 杨帆 | @91-MrYang |
 | 马俊怡 | @Goodnight886 |
 | 陈发英 | @FaEingChen |
 | 李沛瑾 | @HaDock-Harriet |
