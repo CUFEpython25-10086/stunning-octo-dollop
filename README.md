@@ -10,7 +10,7 @@
 | 李科翰 | @Sakura975 |
 | 杨帆 | @91-MrYang |
 | 马俊怡 | @Goodnight886 |
-| 陈发英 | @FaEingChen |
+| 陈发英 | @hello0422-1 |
 | 李沛瑾 | @HaDock-Harriet |
 
 ## 项目目标
