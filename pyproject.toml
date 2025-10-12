@@ -1,0 +1,11 @@
+[project]
+name = "stunning-octo-dollop"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.3.3",
+    "pygame>=2.6.1",
+    "sounddevice>=0.5.2",
+]
